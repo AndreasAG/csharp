@@ -1,0 +1,10 @@
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\obj\Debug\FormsDraw8.csprojAssemblyReference.cache
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\obj\Debug\FormsDraw8.Form1.resources
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\obj\Debug\FormsDraw8.Properties.Resources.resources
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\obj\Debug\FormsDraw8.csproj.GenerateResource.cache
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\obj\Debug\FormsDraw8.csproj.CoreCompileInputs.cache
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\bin\Debug\FormsDraw8.exe.config
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\bin\Debug\FormsDraw8.exe
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\bin\Debug\FormsDraw8.pdb
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\obj\Debug\FormsDraw8.exe
+C:\Users\User17\source\repos\FormsDraw8\FormsDraw8\obj\Debug\FormsDraw8.pdb
